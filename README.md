@@ -23,8 +23,9 @@
   - Salsa
   
  #### You can always count on me  <h4>
-  to tell you positive words when you feel like giving up!
- ##### In 1998, my family and I arrived in Belgium with the company Sabéna. When we got off the plane, for the first time in our lives, we discovered COLD! I remember exactly the dress I was wearing and naive as I was, I didn't understand how people could live in such conditions. <h5>
+ to tell you positive words when you feel like giving up!
+ ##### Funny Story <h5>
+ In 1998, my family and I arrived in Belgium with the company Sabéna. When we got off the plane, for the first time in our lives, we discovered COLD! I remember exactly the dress I was wearing and naive as I was, I didn't understand how people could live in such conditions. 
 
 [Previous] (https://github.com/GemaHonesta/markdownchallenge/edit/master/README.md. || Gema Honesta || [Next] (https://github.com/Gian1984/markdown-challagne/edit/master/README.md).
 
