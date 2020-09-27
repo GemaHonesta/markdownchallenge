@@ -30,4 +30,4 @@
 
 [<<Previous](https://github.com/GemaHonesta/markdownchallenge/edit/master/README.md. Gema Honesta [Next>>] (https://github.com/Gian1984/markdown-challagne/edit/master/README.md).
 
-[<< previous](https://github.com/SebastienFirouzfar/markdown-challenge/blob/master/README.md) Gema Honesta  [next >>](https://github.com/Souabou/markdownchallenge/blob/master/README.md)
+[<< previous](https://github.com/GemaHonesta/markdown-challenge/blob/master/README.md) Gema Honesta  [next >>](https://github.com/Souabou/markdownchallenge/blob/master/README.md)
