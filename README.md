@@ -10,7 +10,8 @@
 |Birthday?             |20 juin 1991|
 |Favorite color?       |Turquoise|
 |Favorite food?        |Salmon|
-|Pinneapple on pizza?|  <uk><<li> [] Yes<li><li>[x] no </li></ul>|
+| Pinneapple on pizza : | <ul><li> [ ] yes</li> <li>[x] no </li></ul> |
+
 
 ### My hobbies: <h3>
 
